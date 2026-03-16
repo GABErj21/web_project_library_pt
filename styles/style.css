@@ -235,7 +235,6 @@
   position: relative;
   width: 100%;
   height: 100%;
-  overflow: hidden;
 }
 
 .events__image {
@@ -252,7 +251,7 @@
 
 .person_name_feynman {
   top: -30px;
-  right: 320px;
+  left: 319px;
 }
 
 .person_name_burbidge {
