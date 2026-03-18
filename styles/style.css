@@ -348,11 +348,6 @@
   position: relative;
 }
 
-.footer__columns-group {
-  display: flex;
-  gap: 80px;
-}
-
 .footer__columns {
   display: flex;
   justify-content: space-between;
@@ -362,10 +357,12 @@
 
 .footer__column_content_hours {
   color: white;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
   color: white;
+  margin-left: 80px;
 }
 
 .footer__logo {
